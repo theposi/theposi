@@ -1,17 +1,20 @@
 # ¡Hola frikis 🐧, soy Cristian!
 
-### Entusiasta de sistemas embebidos, usuario de Linux y apasionado por la electrónica
+### Entusiasta de DevOps, usuario de Linux y apasionado por la terminal.
 
 🛰️ Desarrollador autodidacta en constante aprendizaje. Comencé en el mundo del front-end trabajando con JavaScript, AngularJS y Node.js, pero fue durante mi etapa en 42 Madrid donde nació mi amor por el low-level programming y desde entonces no he parado.
 
-🤖 Mi verdadera pasión está en los sistemas embebidos y la electrónica. Actualmente estoy profundizando en Rust y cómo aplicarlo en microcontroladores, sin dejar de trabajar con Arduino, Raspberry Pi y electrónica digital.
+🤖 Mi verdadera pasión está en los sistemas cosa que me llevó al mundo DevOps. Actualmente profundizando en Docker, orquetación con Kubernetes y automatizaciones y scripting.
 
-🔧 Me encanta Linux y la cultura del ricing — soy usuario de Arch (btw 😏) y disfruto mucho configurando herramientas como Neovim, Hyprland y Alacritty. También me fascina el hardware de bajo nivel, trabajando con sensores, actuadores y protocolos como I2C, SPI y UART.
+🔧 Me encanta Linux y la cultura del ricing — soy usuario de Arch (btw 😏) y disfruto mucho configurando herramientas como Neovim, Hyprland y Alacritty. También me fascina el hardware de bajo nivel, cosas como montar mi propio teclado (Korne) y viendo cómo puedo aplicar todo lo qprendido en mis propios proyectos.
 
 📚 Siempre buscando nuevos desafíos, aprender y compartir conocimiento con otros apasionados por la tecnología.
 
 # 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%2300599.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=orange&color=orange) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5&color=326CE5)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/theposintech/)
